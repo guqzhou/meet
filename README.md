@@ -1,4 +1,9 @@
-# meet
+# 简介
+
+> 智慧园区扫二维码签到园区项目
+
+## 技术
+vue2+vant+scss
 
 ## Project setup
 ```
@@ -14,6 +19,7 @@ npm run serve
 ```
 npm run build
 ```
+### 展示
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![图片名](https://cdn.staticaly.com/gh/guqzhou/photo_gallery@master/blog/202302021027718.png)
+
